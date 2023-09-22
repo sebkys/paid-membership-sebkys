@@ -9,6 +9,7 @@ IF-ELSE statement checking the input from user are met the condition provided be
 - Input empty
 - Input not a number
 - Input not greater than 25
+
 CATCH statement activate when input from user met the condition provided
 if the input doesn't meet the condition provided then
 SWITCH statement checking the condition based on the combo box input then
